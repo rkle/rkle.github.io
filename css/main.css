@@ -9,7 +9,9 @@ body{
 	font-family: 'arial', serif;
 }
 /*end global rules*/
-
+/**************
+	commint away of edit
+***************/
 /*start header*/
 .header{
 	background:url(../images/header.jpg);
