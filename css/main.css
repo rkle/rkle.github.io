@@ -82,9 +82,6 @@ body{
     animation-fill-mode:forwards;
 }
 
-div{
-	background: red;
-}
 
 @keyframes nav-toggle {
     0% {transform: rotate(90deg)}
