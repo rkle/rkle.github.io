@@ -4,8 +4,9 @@
 	-moz-box-sizing:border-box;
 	box-sizing:border-box
 }
+/* font changed */
 body{
-	font-family: 'Droid Serif', serif;
+	font-family: 'arial', serif;
 }
 /*end global rules*/
 
