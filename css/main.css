@@ -80,15 +80,7 @@ body{
     animation-duration: 1s;
     animation-fill-mode:forwards;
 }
-div{
-	background: red;
-}
-span{
-	background: #00f
-}
-a{
-	color:#444;
-}
+
 @keyframes nav-toggle {
     0% {transform: rotate(90deg)}
     100% {transform: rotate(0deg)}
