@@ -9,9 +9,7 @@ body{
 	font-family: 'arial', serif;
 }
 /*end global rules*/
-/**************
-	commint away of edit
-***************/
+
 /*start header*/
 .header{
 	background:url(../images/header.jpg);
@@ -84,13 +82,6 @@ body{
     animation-fill-mode:forwards;
 }
 
-
-div{
-	background: red;
-}
-/**********
-commit do not do any thing :P;
-**********/
 
 @keyframes nav-toggle {
     0% {transform: rotate(90deg)}
